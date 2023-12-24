@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.af522f94.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.01561cf0.js",
+    "static/js/485.2df2c786.chunk.js": "/goit-react-hw-08-phonebook/static/js/485.2df2c786.chunk.js",
+    "static/js/915.a2c63b69.chunk.js": "/goit-react-hw-08-phonebook/static/js/915.a2c63b69.chunk.js",
+    "static/js/734.961d883f.chunk.js": "/goit-react-hw-08-phonebook/static/js/734.961d883f.chunk.js",
+    "static/js/912.d9e7f044.chunk.js": "/goit-react-hw-08-phonebook/static/js/912.d9e7f044.chunk.js",
+    "static/js/137.c50c9d91.chunk.js": "/goit-react-hw-08-phonebook/static/js/137.c50c9d91.chunk.js",
+    "static/media/userpic.svg": "/goit-react-hw-08-phonebook/static/media/userpic.0c82bb23bc3089069e7347d3b5ee9066.svg",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+    "main.af522f94.css.map": "/goit-react-hw-08-phonebook/static/css/main.af522f94.css.map",
+    "main.01561cf0.js.map": "/goit-react-hw-08-phonebook/static/js/main.01561cf0.js.map",
+    "485.2df2c786.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/485.2df2c786.chunk.js.map",
+    "915.a2c63b69.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/915.a2c63b69.chunk.js.map",
+    "734.961d883f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/734.961d883f.chunk.js.map",
+    "912.d9e7f044.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/912.d9e7f044.chunk.js.map",
+    "137.c50c9d91.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/137.c50c9d91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.af522f94.css",
+    "static/js/main.01561cf0.js"
   ]
 }
